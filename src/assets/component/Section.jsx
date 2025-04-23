@@ -1,3 +1,7 @@
+import aboutUsImage from "src/assets/images/about-us-image.jpg";
+import videoThumb from "src/assets/images/video-thumb.jpg";
+import happyClientImage from "src/assets/images/happyclient-01.jpg";
+
 function Section(){
     return (
         <>
